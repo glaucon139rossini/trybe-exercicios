@@ -1,0 +1,31 @@
+div:hover{
+    border:3px solid blue;
+}
+.color-one{
+    background-color: darkgreen;
+    font-style: italic;
+}
+
+.color-two{
+    background-color: rgb(32, 175, 32);
+    color:white;
+}
+
+.color-three{
+    background-color: rgb(247, 41, 5);
+    height: 50px;
+    font-style: italic;
+}
+
+.color-four{
+    background-color: rgb(188, 112, 32);
+    color:white;
+}
+
+.color-five{
+    background-color: rgb(16, 161, 187);
+    font-style: italic;
+}
+
+
+

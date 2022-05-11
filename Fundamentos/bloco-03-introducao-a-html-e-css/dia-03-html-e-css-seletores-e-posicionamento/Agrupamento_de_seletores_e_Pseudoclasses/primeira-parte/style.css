@@ -1,0 +1,17 @@
+.center-list {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.center-list ol li:hover {
+    background: greenyellow;
+}
+
+.color-item:active {
+    color: grey;
+}
+
+ol,
+ul {
+    list-style: none;
+}

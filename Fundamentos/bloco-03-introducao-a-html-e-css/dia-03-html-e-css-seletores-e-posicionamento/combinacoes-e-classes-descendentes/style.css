@@ -1,0 +1,66 @@
+ol li {
+    background-color: yellow;
+
+}
+
+.font-color-par {
+    color: green;
+
+}
+
+.font-type-impar {
+    text-transform: uppercase;
+}
+
+h1,
+h3 {
+    color: red;
+
+}
+
+h1.boder-and-size {
+    font-size: 40px;
+    border: 1px solid black;
+
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
+
+ul li.color-blue {
+    color: blue;
+}
+
+.color-pink {
+    background-color: pink;
+}
+
+.color-bold-orange:hover {
+    font-weight: bold;
+    color: orange;
+}
+
+.color-bold-green:hover {
+    font-weight: bold;
+    color: green;
+}
+
+.color-bold-black:hover {
+    font-weight: bold;
+    color: black;
+}
+
+.color-bold-yellow:hover {
+    font-weight: bold;
+    color: yellow;
+}
+
+.color-bold-green-dark:hover {
+    font-weight: bold;
+    color: rgb(2, 75, 2);
+}
