@@ -1,0 +1,35 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+@media screen and (max-width: 499px) {
+    body {
+        margin: 20px;
+        background-color: antiquewhite;
+        font-size: 18px;
+        color: darkred;
+    }
+}
+
+@media screen and (min-width: 500px)and (max-width: 800px) {
+    body {
+        margin: 35px;
+        background-color: darkred;
+        font-size: 25px;
+        color: antiquewhite;
+    }
+}
+@media screen and (min-width: 801px) {
+    body {
+        margin: 40px;
+        background-color: darksalmon;
+        font-size: 30px;
+        color: antiquewhite;
+    }
+}
